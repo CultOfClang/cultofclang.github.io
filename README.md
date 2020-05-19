@@ -7,11 +7,11 @@ We consider rigorus scientific inquery, clean code, and limitless learning essen
 We don't make any speculation on undocumented features of the universe and are designed to build on top of all other religions (or lack there of). Feel free to right a backend for your religion and submit a pr into the /theology directory.
 
 # Required Readings
-[Convenient of Conduct](/CODE_OF_CONDUCT)
-[Joel on Software](https://www.joelonsoftware.com/)
-[Paul's Grahms Hackers and Painters](http://www.paulgraham.com/hp.html)
-[Git Handbook](https://guides.github.com/introduction/git-handbook/)
-[Coding Conventions](/CODING_CONVENTIONS)
+- [Convenient of Conduct](/CODE_OF_CONDUCT)
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Paul's Grahms Hackers and Painters](http://www.paulgraham.com/hp.html)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Coding Conventions](/CODING_CONVENTIONS)
 
 We also require each member to read at least one paper per week of their choosing.
 
