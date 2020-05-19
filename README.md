@@ -22,7 +22,10 @@ Find an issue tagged as good first issue comment to claim it, and make a pr!
 We have in person sessions in the King County Library System. 
 
 We have weekly live training sessions on http://twitch.tv/cultofclang
+
 You can also contribute to one of out many projects here on github.
+
+While most of the organization happens here on github, we also have a [discord](https://discord.gg/j8xjfED)
 
 # How to become a Minster (mantainer)
 The primary way to designated as an minister is to create a work to demostrate a level of master.
@@ -35,9 +38,3 @@ A lot of people get degrees in computer science but this is not required or suff
 - publishing paper in an ACM confernace
 - bootstraping the Clang Compiler starting from no binaries.
 - building an operating system from scratch that is capable of running doom.
-
-# Join a Session
-
-
-# Talk with other members
-While most of the organization happens here on github, we also have a [discord](https://discord.gg/j8xjfED)
