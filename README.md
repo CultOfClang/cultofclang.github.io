@@ -4,7 +4,8 @@ We are an organization dedicated to technical creation throguht rigorus scientif
 
 We consider rigorus scientific inquery, clean code, and limitless learning essental to a happy, healthy mind.
 
-We don't make any speculation on undocumented features of the universe and are designed to build on top of all other religions (or lack there of). Feel free to right a backend for your religion and submit a pr into the /theology directory.
+We don't make any speculation on undocumented features of the universe.
+And while we have a 'religious' doctorn, the most important things is critical thought. If you have proof that something is wrong make a PR.
 
 # Required Readings
 - [Convenient of Conduct](/CODE_OF_CONDUCT)
